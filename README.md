@@ -32,8 +32,3 @@ Tools Needed to build this Web Application:
 1. Jupyter Notebook
 2. Pycharm (Any other IDE can work)
 3. Chrome Browser preferred
-
-Steps to Run this in your local system:
-
-1. Download the dataset and the code
-2. Use the Streamlit code template to build the web application
