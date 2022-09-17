@@ -28,18 +28,18 @@ with col1:
 with col2:
     bowling_team = st.selectbox('Select the bowling team',sorted(teams))
 
-selected_city = st.selectbox('Select host city',sorted(cities))
+selected_city = st.selectbox('Venue',sorted(cities))
 
 target = st.number_input('Target')
 
 col3,col4,col5 = st.columns(3)
 
 with col3:
-    score = st.number_input('Score')
+    score = st.number_input('Current Score')
 with col4:
-    overs = st.number_input('Overs completed')
+    overs = st.number_input('Overs Completed')
 with col5:
-    wickets = st.number_input('Wickets out')
+    wickets = st.number_input('Wickets Out')
 
 if st.button('Predict Probability'):
     runs_left = target - score
