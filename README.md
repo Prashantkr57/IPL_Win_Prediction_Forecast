@@ -32,4 +32,4 @@ Tools Needed to build this Web Application:
 
 1. Jupyter Notebook
 2. Pycharm (Any other IDE can work)
-3. Chrome Browser preferred
+3. Heroku for Deployment
