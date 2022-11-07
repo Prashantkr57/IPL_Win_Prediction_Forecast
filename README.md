@@ -1,5 +1,5 @@
 # ipl_win_prediction_forecast
-IPL Win Forecast predicts the win probability of teams in 2nd Inninngs based on the Teams, Target, Venue, Current Score, Overs Completed and Wickets Out.
+IPL Win Forecast predicts the winning probability of teams in 2nd Inninngs based on the teams, Target, Venue, Current Score, Overs Completed and Wickets.
 IPL dataset is taken to analyze the metrics of different teams in IPL. Libraries such as pandas, matplotlib, and seaborn are used to perform exploratory data analysis on top of this IPL data. Finally, some machine learning algorithms are implemented to predict which team has a better likelihood of winning the match.
 Link to run the web application: https://ipl-win-forecast.herokuapp.com/
 ![Screenshot (29)](https://user-images.githubusercontent.com/67437394/190851037-a996eb4c-2d50-4dc8-92c8-d0dc83681485.png)
