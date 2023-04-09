@@ -12,21 +12,21 @@ Now Change the Host city to Chennai.
 ![Screenshot (35)](https://user-images.githubusercontent.com/67437394/190851045-5760f8f4-d955-4e93-b43b-350291836599.png)
 Dataset: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 
-How to predict using application:
+# How to predict using application:
 1. Go to the application.
 2. Select the batting and bowling team in 2nd innings.
 3. Select Venue and provide target, current score, overs completed and wickets out,
 4. Click "Predict Probability" button.
 5. BINGO!
 
-Technologies used:
+# Technologies used:
 
 1. Python - To build the Machine Learning model.
 2. Jupyter Notebook (You can use any other IDE like Google Colab) - To train the model.
 3. Streamlit Framework - To create Web Application for our model.
 4. Heroku - To deploy our model.
  
-Python libraries Used:
+# Python libraries Used:
 
 1. Pandas
 2. NumPy
@@ -35,7 +35,7 @@ Python libraries Used:
 5. Requests
 6. Pickle
 
-Tools Needed to build this Web Application:
+# Tools Needed to build this Web Application:
 
 1. Jupyter Notebook
 2. Pycharm (Any other IDE can work)
